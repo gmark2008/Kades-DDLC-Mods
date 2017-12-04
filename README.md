@@ -1,4 +1,4 @@
-![YR](https://imgur.com/a/yPK74)
+![yPK74](https://imgur.com/a/yPK74)
 # Yuri-Route
 A DDLC Mod By Kade
 
