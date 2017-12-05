@@ -1,13 +1,7 @@
-![yPK74](https://i.imgur.com/k2FUuOt.png)
-# Yuri-Route
-A DDLC Mod By Kade
+# Welcome To Kade's Mod For DDLC
 
-## Whats it about
-Spending time with yuri of course.....
 
-## How to install it
-Just go into releases and then extract the games folder into the ddlc's game folder!
-
-## How Long Is It
-Its pretty short. But its pretty neat i have to say
-
+## Mods
+### Yuri Route
+Time Made: 2 Days.
+Play time: 10 mins - 20 mins.
