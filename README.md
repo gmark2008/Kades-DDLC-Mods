@@ -6,8 +6,7 @@ A DDLC Mod By Kade
 Spending time with yuri of course.....
 
 ## How to install it
-Just go into releases and then extract the folder then run the .exe
-There you go no hard things needed
+Just go into releases and then extract the games folder into the ddlc's game folder!
 
 ## How Long Is It
 Its pretty short. But its pretty neat i have to say
