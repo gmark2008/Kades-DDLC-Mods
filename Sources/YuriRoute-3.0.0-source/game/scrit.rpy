@@ -455,7 +455,7 @@ label stop:
     "I pounce on Yuri, knocking the knife a good six feet away."
     "I won't let this happen."
     y "Why...?"
-    mc "After I fucking said "Yes"? Are you kidding me?"
+    mc "After I fucking said \"Yes\"? Are you kidding me?"
     y "B-But..."
     mc "No, it's my turn to fucking talk!"
     "I'm sick of this side of Yuri, it's time to confront her about it."
