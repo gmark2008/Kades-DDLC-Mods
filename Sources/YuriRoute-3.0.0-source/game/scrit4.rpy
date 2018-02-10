@@ -10,6 +10,6 @@ label p5:
     y "I've been waiting for you."
     y 2d "Are you ready to continue reading?"
     y "I brought my best tea today--"
-    "Wait what is this..."
+    "Wait-- Wha.. What!? What the hell..."
     m "Goodbye..."
     call endgame from _call_endgame
