@@ -216,8 +216,8 @@ label splashscreen:
         scene tos
         with Dissolve(1.0)
         pause 1.0
-        "[config.name] is a Doki Doki Literature Club fan made mod by Kade"
-        "Please understand this is my first mod. Im sorry if i can't nail everything."
+        "[config.name] is a Doki Doki Literature Club fan made mod by Kade. Text improved by djosepaci."
+        "Please understand this is my first mod. Every feedback is really helpful to me!"
         "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
         menu:
             "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
