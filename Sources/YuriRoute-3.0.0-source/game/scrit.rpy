@@ -448,34 +448,32 @@ label yuri_kill_mod:
             jump stop
 label stop:
     play music t10y
-    mc "Not Agian!"
+    mc "Not again!"
     y "What?"
     scene black
     with wipeleft_scene
-    "I pounce on yuri, Knocking the kinfe a good 6 feet away."
-    "I wont let this happen"
-    y "Why..."
-    mc "After i fucking said Yes? Are you kidding me..."
-    y "B-But.."
-    mc "No its my turn to FUCKING talk"
-    mc "Do you even love me..."
-    mc "You would kill yourself"
-    mc "Thats not love"
-    mc "None of it is"
-    mc "If you really love me youl understand that im not going with monika"
-    mc "Come to my house sunday.."
+    "I pounce on Yuri, knocking the knife a good six feet away."
+    "I won't let this happen."
+    y "Why...?"
+    mc "After I fucking said \"Yes\"? Are you kidding me?"
+    y "B-But..."
+    mc "No, it's my turn to fucking talk!"
+    "I'm sick of this side of Yuri, it's time to confront her about it."
+    mc "I don't understand."
+    mc "Why the hell would you kill yourself? Do you even love me...?"
+    mc "That's not what love is about, Yuri! Stop it!"
+    mc "I already like you, and you know it. I thought you'd understand that I would have made up some excuse with Monika anyway."
+    mc "..."
+    mc "Look, come to my house this Sunday."
     y "..."
-    mc "Please for the love of god dont do this ever again"
-    "...Its done"
+    mc "And for the love of God, please don't pull this stuff ever again."
     scene bg club_day
     with wipeleft_scene
-    "I get off yuri and leave..."
+    "I get off Yuri's shoulders and leave the classroom quickly, visibly annoyed."
     scene bg corridor
     with wipeleft_scene
     hide yuri
-    "She follows me out.."
-    "We leave the school...."
-    "I Guess well see"
+    "She follows me out and we leave the school."
     scene black
     with wipeleft_scene
 
