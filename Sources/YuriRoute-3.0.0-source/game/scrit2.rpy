@@ -13,7 +13,7 @@ label p3:
     "She sent me a funny SMS the other day."
     "Although, now that I think of it... I have no idea how she has my phone number."
     "But Yuri is coming too, crap! I had to pick just one between the two."
-    "I like Yuri, that's why I invited her over.
+    "I like Yuri, that's why I invited her over."
     "But I certainly don't want to disappoint Monika, too!"
     "She's the president of the club afterall. She'd be a bit furious if I cancelled everything so suddenly."
     "I see someone coming..."
@@ -27,7 +27,7 @@ label p3:
     y 4b "About yesterday..."
     mc "Don't worry, I understand."
     y "I-I hope you aren't going to hate me after that..."
-    mc "What? No... It's just, that...
+    mc "What? No... It's just, that..."
     "Yuri always takes me by surprise. How am I going to tell her without offending her?"
     y "That...?"
     mc "It's just that you need a little help. I'm sorry."
